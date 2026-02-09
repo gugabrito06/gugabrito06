@@ -5,7 +5,7 @@ I am passionate about **Software Development**, **OOP**, **Web Development** and
 
 My core tech stack includes **Python**, **Java**, and **JavaScript**.
 
-During my journey, I've had the opportunity to work as a **Software Development Intern at Lidl**, where I developed Python-based automation tools.
+During my journey, I've had the opportunity to work as a **Software Development Intern at Lidl**, where I developed Python-based automation solutions.
 
 You can visit my [LinkedIn](https://www.linkedin.com/in/goncalobrito06/) to learn more about my work and get in touch with me!
 
