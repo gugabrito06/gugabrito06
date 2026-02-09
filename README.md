@@ -1,4 +1,4 @@
-# Hi! :D
+# Hello! :D
 
 My name is Gonçalo Brito and I am an **Information Systems BSc student** at **NOVA IMS** (Cumulative Average: **17.44/20**). <br>
 I am passionate about **Software Development**, **OOP**, **Web Development** and building automated solutions that solve real-world problems.
